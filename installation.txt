@@ -1,0 +1,7 @@
+KRET-22.1 (13.11.2022)
+
+1. Make sure you have installed Node.js
+2. Type in command prompt: npm install -g parcel
+3. Copy kret.exe into C:\Windows\System32
+
+To setup KRET project just go to the target directory and type 'kret' in cmd
